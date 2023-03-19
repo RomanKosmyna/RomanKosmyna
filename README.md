@@ -1,16 +1,40 @@
 ### Hi there 👋
 
-<!--
-**RomanKosmyna/RomanKosmyna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
+<br />
 
-Here are some ideas to get you started:
+🌱 I’m currently learning Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="mailto:roma.kosmyna@gmail.com">
+  <img align="left" alt="Mail" width="24px" src="https://github.com/RomanKosmyna/icons/blob/main/gmail.png" />
+</a>
+
+<br />
+<br />
+
+**Languages and Tools:**  
+
+<a href="https://github.com/RomanKosmyna/icons/blob/main/skills/JavaScript.png">
+  <img height="25" title="JavaScript" src="https://github.com/RomanKosmyna/icons/blob/main/skills/JavaScript.png">
+</a>
+ <a href="https://github.com/RomanKosmyna/icons/blob/main/skills/TypeScript.png">
+  <img height="25" title="TypeScript" src="https://github.com/RomanKosmyna/icons/blob/main/skills/TypeScript.png">
+</a> 
+<a href="https://github.com/RomanKosmyna/icons/blob/main/skills/NodeJS.png">
+  <img height="25" title="NodeJs" src="https://github.com/RomanKosmyna/icons/blob/main/skills/NodeJS.png">
+</a>
+<a href="https://github.com/RomanKosmyna/icons/blob/main/skills/MongoDB.png">
+  <img height="25" title="MongoDB" src="https://github.com/RomanKosmyna/icons/blob/main/skills/MongoDB.png">
+</a>
+<a href="https://github.com/RomanKosmyna/icons/blob/main/skills/React.png">
+  <img height="25" title="React" src="https://github.com/RomanKosmyna/icons/blob/main/skills/React.png">
+</a>
+<a href="https://github.com/RomanKosmyna/icons/blob/main/skills/Redux.png">
+  <img height="25" title="Redux" src="https://github.com/RomanKosmyna/icons/blob/main/skills/Redux.png">
+</a>
+<a href="https://github.com/RomanKosmyna/icons/blob/main/skills/npm.png">
+  <img height="25" title="npm" src="https://github.com/RomanKosmyna/icons/blob/main/skills/npm.png">
+</a>
+<a href="https://github.com/RomanKosmyna/icons/blob/main/skills/yarn.png">
+  <img height="25" title="yarn" src="https://github.com/RomanKosmyna/icons/blob/main/skills/yarn.png">
+</a>
