@@ -35,3 +35,6 @@
 <a href="https://github.com/RomanKosmyna/icons/blob/main/skills/yarn.png">
   <img height="25" title="yarn" src="https://github.com/RomanKosmyna/icons/blob/main/skills/yarn.png">
 </a>
+<a href="https://github.com/RomanKosmyna/icons/blob/main/skills/postman.png">
+  <img height="25" title="postman" src="https://github.com/RomanKosmyna/icons/blob/main/skills/postman.png">
+</a>
