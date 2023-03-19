@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-
 🌱 I’m currently learning Node.js
-
-<br />
 
 <a href="mailto:roma.kosmyna@gmail.com">
   <img align="left" alt="Mail" width="24px" src="https://github.com/RomanKosmyna/icons/blob/main/gmail.png" />
