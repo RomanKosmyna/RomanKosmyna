@@ -29,12 +29,12 @@
 <a href="https://github.com/RomanKosmyna/icons/blob/main/skills/Redux.png">
   <img height="25" title="Redux" src="https://github.com/RomanKosmyna/icons/blob/main/skills/Redux.png">
 </a>
+<a href="https://github.com/RomanKosmyna/icons/blob/main/skills/postman.png">
+  <img height="25" title="postman" src="https://github.com/RomanKosmyna/icons/blob/main/skills/postman.png">
+</a>
 <a href="https://github.com/RomanKosmyna/icons/blob/main/skills/npm.png">
   <img height="25" title="npm" src="https://github.com/RomanKosmyna/icons/blob/main/skills/npm.png">
 </a>
 <a href="https://github.com/RomanKosmyna/icons/blob/main/skills/yarn.png">
   <img height="25" title="yarn" src="https://github.com/RomanKosmyna/icons/blob/main/skills/yarn.png">
-</a>
-<a href="https://github.com/RomanKosmyna/icons/blob/main/skills/postman.png">
-  <img height="25" title="postman" src="https://github.com/RomanKosmyna/icons/blob/main/skills/postman.png">
 </a>
