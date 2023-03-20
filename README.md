@@ -34,8 +34,8 @@
 <a href="https://github.com/RomanKosmyna/icons/blob/main/skills/VisualStudioCode.png">
   <img height="25" title="postman" src="https://github.com/RomanKosmyna/icons/blob/main/skills/VisualStudioCode.png">
 </a>
-<a href="https://github.com/RomanKosmyna/icons/blob/main/skills/Intellij.jfif">
-  <img height="25" title="postman" src="https://github.com/RomanKosmyna/icons/blob/main/skills/Intellij.jfif">
+<a href="https://github.com/RomanKosmyna/icons/blob/main/skills/Intellij.png">
+  <img height="25" title="postman" src="https://github.com/RomanKosmyna/icons/blob/main/skills/Intellij.png">
 </a>
 <a href="https://github.com/RomanKosmyna/icons/blob/main/skills/npm.png">
   <img height="25" title="npm" src="https://github.com/RomanKosmyna/icons/blob/main/skills/npm.png">
