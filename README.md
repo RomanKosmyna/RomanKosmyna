@@ -11,9 +11,7 @@
 
 **Languages and Tools:**  
 
-<a href="https://github.com/RomanKosmyna/icons/blob/main/skills/JavaScript.png">
   <img height="25" title="JavaScript" src="https://github.com/RomanKosmyna/icons/blob/main/skills/JavaScript.png">
-</a>
  <a href="https://github.com/RomanKosmyna/icons/blob/main/skills/TypeScript.png">
   <img height="25" title="TypeScript" src="https://github.com/RomanKosmyna/icons/blob/main/skills/TypeScript.png">
 </a> 
