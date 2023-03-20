@@ -2,9 +2,9 @@
 
 🎯 I’m currently learning Node.js and MongoDB
 
-<span>
+<a href="mailto:roma.kosmyna@gmail.com">
   <img align="left" alt="Mail" width="24px" src="https://github.com/RomanKosmyna/icons/blob/main/gmail.png" />
-</span>
+</a>
 
 <br />
 <br />
