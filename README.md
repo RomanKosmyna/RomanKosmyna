@@ -8,7 +8,7 @@
 
 <br />
 <br />
-<p>Pet-projects</p>
+<p>Pet-projects:</p>
 <a href="https://github.com/RomanKosmyna/Imitation-Films">
   Imitation Films
 </a>
