@@ -8,7 +8,7 @@
 
 <br />
 <br />
-<p>Pet-projects:</p>
+<p>Pet projects:</p>
 <a href="https://github.com/RomanKosmyna/briefly-gpt">
   BrieflyGPT - in progress
 </a>
