@@ -12,6 +12,10 @@
 <a href="https://github.com/RomanKosmyna/Imitation-Films">
   Imitation Films
 </a>
+
+<a href="https://github.com/RomanKosmyna/briefly-gpt">
+  BrieflyGPT
+</a>
 <br />
 <br />
 
