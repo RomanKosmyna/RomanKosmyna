@@ -9,10 +9,6 @@
 <br />
 <br />
 <p>Pet projects:</p>
-<a href="https://github.com/RomanKosmyna/briefly-gpt">
-  BrieflyGPT - in progress
-</a>
-<br />
 <a href="https://github.com/RomanKosmyna/Imitation-Films">
   Imitation Films
 </a>
