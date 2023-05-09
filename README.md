@@ -9,6 +9,7 @@
 <br />
 <br />
 <p>Pet projects:</p>
+<p>BrieflyGPT (in progress) </p>
 <a href="https://github.com/RomanKosmyna/Imitation-Films">
   Imitation Films
 </a>
