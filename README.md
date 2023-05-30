@@ -12,6 +12,7 @@
 <a href="https://github.com/RomanKosmyna/spot-finder">
   Spot Finder
 </a>
+<br />
 <a href="https://github.com/RomanKosmyna/Imitation-Films">
   Imitation Films
 </a>
