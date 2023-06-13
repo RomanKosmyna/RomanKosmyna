@@ -9,8 +9,8 @@
 <br />
 <br />
 <p>Pet projects:</p>
-<a href="https://github.com/RomanKosmyna/spot-finder">
-  Spot Finder
+<a href="https://github.com/RomanKosmyna/venue-nexus-frontend">
+  Venue Nexus
 </a>
 <br />
 <a href="https://github.com/RomanKosmyna/Imitation-Films">
