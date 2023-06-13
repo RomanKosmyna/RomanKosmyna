@@ -10,8 +10,12 @@
 <br />
 <p>Pet projects:</p>
 <a href="https://github.com/RomanKosmyna/venue-nexus-frontend">
-  Venue Nexus
+  Venue Nexus (Frontend)
 </a>
+<a href="https://github.com/RomanKosmyna/venue-nexus-backend">
+  Venue Nexus (Backend)
+</a>
+<br />
 <br />
 <a href="https://github.com/RomanKosmyna/Imitation-Films">
   Imitation Films
