@@ -12,6 +12,7 @@
 <a href="https://github.com/RomanKosmyna/venue-nexus-frontend">
   Venue Nexus (Frontend)
 </a>
+<br />
 <a href="https://github.com/RomanKosmyna/venue-nexus-backend">
   Venue Nexus (Backend)
 </a>
