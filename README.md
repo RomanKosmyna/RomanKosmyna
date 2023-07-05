@@ -9,7 +9,7 @@
 <br />
 <br />
 <p>Pet projects:</p>
-<a href="https://github.com/RomanKosmyna/venue-nexus">
+<a href="https://github.com/RomanKosmyna/curly-spoon">
   Curly Spoon
 </a>
 <br />
