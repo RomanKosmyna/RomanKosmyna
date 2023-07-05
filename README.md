@@ -10,7 +10,7 @@
 <br />
 <p>Pet projects:</p>
 <a href="https://github.com/RomanKosmyna/venue-nexus">
-  Venue Nexus
+  Curly Spoon
 </a>
 <br />
 
