@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🎯 I’m currently learning Next.js.
+🎯 I’m currently learning C#, .NET, ASP.NET.
 
 <a href="mailto:roma.kosmyna@gmail.com">
   <img align="left" alt="Mail" width="24px" src="https://github.com/RomanKosmyna/icons/blob/main/gmail.png" />
@@ -9,8 +9,8 @@
 <br />
 <br />
 <p>Pet projects:</p>
-<a href="https://github.com/RomanKosmyna/curly-spoon">
-  Curly Spoon
+<a href="https://github.com/RomanKosmyna/venue-app-main">
+  Venue App
 </a>
 <br />
 
