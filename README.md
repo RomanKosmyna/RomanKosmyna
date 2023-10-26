@@ -19,7 +19,6 @@
   Imitation Films
 </a>
 <br />
-<br />
 
 **Languages and Tools:**  
 <a href="https://github.com/RomanKosmyna/icons/blob/main/skills/JavaScript.png">
