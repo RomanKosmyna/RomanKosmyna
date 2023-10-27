@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-🎯 I’m currently learning C#, .NET, ASP.NET.
-
 <a href="mailto:roma.kosmyna@gmail.com">
   <img align="left" alt="Mail" width="24px" src="https://github.com/RomanKosmyna/icons/blob/main/gmail.png" />
 </a>
